@@ -1,0 +1,11 @@
+.ant-modal-content {
+max-height: 500px;
+height: 700px;
+width: 800px;
+/*overflow-y: auto;*/
+/*overflow-x: auto;*/
+}
+
+form{
+    margin:2em;
+}
